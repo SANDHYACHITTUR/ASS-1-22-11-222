@@ -1,0 +1,18 @@
+---------
+PROGRAM:-
+---------
+p=int(input('enter principle amount:'))
+t=int(input('enter time:'))
+r=int(input('enter rate of interest:'))
+si=(p*t*r)/100
+print('simple interest:',si)
+emi=(p+si)/(12*t)
+print('EMI=',emi)
+-------
+OUTPUT:-
+--------
+enter principle amount:30000
+enter time:5
+enter rate of interest:30
+simple interest: 45000.0
+EMI= 1250.0
