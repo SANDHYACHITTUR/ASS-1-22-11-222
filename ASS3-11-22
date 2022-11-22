@@ -1,0 +1,17 @@
+----------
+PROGRAM:-
+----------
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+a=a+b;
+b=a-b;
+a=a-b;
+print('a value:',a)
+print('b value:',b)
+--------
+OUTPUT:-
+--------
+enter a:20
+enter b:30
+a value: 30
+b value: 20
