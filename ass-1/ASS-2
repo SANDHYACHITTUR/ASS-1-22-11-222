@@ -1,0 +1,28 @@
+---------
+PROGRAM:-
+---------
+s=input('enter no:')
+n=input('enter name:')
+g=input('enter gender:')
+gr=input('enter group:')
+a=input('enter address:')
+print('details of the student are:')
+print(s)
+print(n)
+print(g)
+print(gr)
+print(a)
+--------
+OUTPUT:-
+--------
+enter no:2
+enter name:ravi
+enter gender:meal
+enter group:mcsair
+enter address:vijayawada
+details of the student are:
+2
+ravi
+meal
+mcsair
+vijayawada
