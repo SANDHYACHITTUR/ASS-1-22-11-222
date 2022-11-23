@@ -1,0 +1,13 @@
+------------
+PROGRAM:-
+------------
+a=int(input('a='))
+if a%2==0:
+    print('even number')
+else:
+    print('odd number')
+------------    
+ OUTPUT:-
+------------
+a=22
+even number
