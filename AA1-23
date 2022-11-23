@@ -1,0 +1,15 @@
+----------
+PROGRAM:-
+----------
+a=int(input('a='))
+b=int(input('b='))
+if a>b:
+    print('a is big')
+else:
+    print('b is blg')
+--------
+OUTPUT:-
+--------
+a=20
+b=50
+b is blg
