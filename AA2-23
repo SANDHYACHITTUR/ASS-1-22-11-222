@@ -1,0 +1,17 @@
+----------
+PROGRAM:-
+----------
+a=int(input('a='))
+b=int(input('b='))
+if a==b:
+    print('equal numbers')
+else:
+    print('not equal')
+-----------
+OUTPUT:-
+-----------
+a=39
+b=55
+not equal
+
+    
