@@ -1,0 +1,19 @@
+s=input('enter no:')
+n=input('enter name:')
+g=input('enter group:')
+s1=int(input('enetr s1:'))
+s2=int(input('enetr s2:'))
+s3=int(input('enetr s3:'))
+if s1>35 and s2>=35 and s3>=35:
+    print('pass')
+else:
+    print('fail')
+    
+OUTPUT:-    
+ enter no:2
+enter name:ram
+enter group:mcs
+enetr s1:35
+enetr s2:35
+enetr s3:40
+fail
